@@ -13,6 +13,10 @@ body {
   color: #444444;
 }
 
+.img1 {
+    height: 25vh;
+}
+
 a {
   color: #ffc451;
   text-decoration: none;
